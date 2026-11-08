@@ -37,7 +37,7 @@ This repository contains the official website for Rubin Williams, a former Black
 1. Clone the repository
 
 ```bash
-git clone https://github.com/stynerdev225/rubin-williams.git
+git clone https://github.com/StynerStiner/rubin-williams.git
 cd rubin-williams
 ```
 
